@@ -1,0 +1,5 @@
+sys.logs("Hola Mundo")
+sys.write("Hola Mundo")
+mem.set('hola', 5)
+mem.set('test', "Hola")
+sys.logs(vars['test'])
