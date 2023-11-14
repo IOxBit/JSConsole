@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.console-container {
+  background-color: black;
+  color: #ffffff;
+  padding: 10px;
+  overflow-y: scroll;
+  max-height: 80vh;
+  border: 1px solid #ccc;
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre;
+}
