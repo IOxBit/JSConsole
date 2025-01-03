@@ -1,5 +1,5 @@
 # Documentación
-*Aún no está completo el proywcto, y por ende, tampoco la documentación*
+*Aún no está completo el proyecto, y por ende, tampoco la documentación*
 ## Objeto `sys`
 El objeto `sys`, se encarga de imprimir la información necesaria en la consola(no la del navegador, sino la propuesta por el código)
 Por el momento, este objeto solo tiene 2 métodos:
